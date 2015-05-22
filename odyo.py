@@ -208,7 +208,7 @@ class CLI_Main:
 ######################################################################
 
 def aide():
-    print("""OdyO v0.2 GNU/GPL v3
+    print("""OdyO v0.2 GNU/GPL v2
 by David Lhoumaud <craft@ckdevelop.org> 
 USAGE:
     play            New player
