@@ -1,2 +1,8 @@
 # Odyo
-Moteur audio avec Gstreamer
+Moteur audio utilisant Gstreamer
+
+== INSTALLATION ==
+make install
+
+== UNINSTALLATION ==
+make uninstall
